@@ -1,4 +1,4 @@
-package kevin.gcbcr;
+package org.gcbcr;
 
 public class Main {
     public static void main(String[] args) {

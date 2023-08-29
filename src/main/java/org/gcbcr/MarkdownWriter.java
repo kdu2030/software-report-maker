@@ -1,4 +1,4 @@
-package kevin.gcbcr;
+package org.gcbcr;
 
 import net.steppschuh.markdowngenerator.image.Image;
 import net.steppschuh.markdowngenerator.link.Link;
